@@ -3,3 +3,4 @@
 ::ffff:127.0.0.1 - - [15/Jun/2024:09:42:27 +0000] "POST /api/trades HTTP/1.1" 201 74 "-" "Thunder Client (https://www.thunderclient.com)"
 ::ffff:127.0.0.1 - - [16/Jun/2024:07:26:04 +0000] "GET /trades HTTP/1.1" 200 161 "-" "Thunder Client (https://www.thunderclient.com)"
 ::ffff:127.0.0.1 - - [16/Jun/2024:07:26:30 +0000] "POST /trades HTTP/1.1" 201 75 "-" "Thunder Client (https://www.thunderclient.com)"
+::ffff:127.0.0.1 - - [16/Jun/2024:07:29:58 +0000] "GET /trades/4 HTTP/1.1" 404 12 "-" "Thunder Client (https://www.thunderclient.com)"
